@@ -23,7 +23,7 @@ After that, input in an URL(URL for each of those 5 methods you can find in the 
 If the method has @RequestParam, you must to add your values for this parameters in the key=value format, just like in the example.
 ![image](https://github.com/user-attachments/assets/385480dd-e905-4afe-bde9-7bc9258d0529)
 If the method has @RequestBody, you must to add your values in the body of the request in Postman.    
-If everything was correct, you will see a notification about it, but if not, you will see another notification  
+If everything was correct, you will see a notification about it, but if not, you will see another notification.    
 ![image](https://github.com/user-attachments/assets/af73a49e-e4df-4bfa-a7ed-bc7028e87fc6)
 ![image](https://github.com/user-attachments/assets/7da3b25f-9840-4ee7-86f7-d76ed0cde229)
 
