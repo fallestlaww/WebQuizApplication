@@ -16,13 +16,13 @@ This project requires this application for methods which requires API request, a
 [deleteQuestionById](https://github.com/fallestlaww/WebQuizApplication/blob/main/src/main/java/com/projects/quizapplication/controller/QuestionController.java#L70),
 [createQuiz](https://github.com/fallestlaww/WebQuizApplication/blob/main/src/main/java/com/projects/quizapplication/controller/QuizController.java#L30),
 [submitQuiz](https://github.com/fallestlaww/WebQuizApplication/blob/main/src/main/java/com/projects/quizapplication/controller/QuizController.java#L53).
-So, first of all open "Postman" and choose an option "New request" just like in the example below
+So, first of all open "Postman" and choose an option "New request" just like in the example below.
 ![image](https://github.com/user-attachments/assets/f0f2c871-bee2-44d3-ae4e-24fccb4cfcd5)
-After that, input in an URL(URL for each of those 5 methods you can find in the annotation above the method declaration) and choose HTTP method for a request(HTTP method for each of those 5 methods you can find in the annotation above the method declaration)
+After that, input in an URL(URL for each of those 5 methods you can find in the annotation above the method declaration) and choose HTTP method for a request(HTTP method for each of those 5 methods you can find in the annotation above the method declaration).
 #### Attention! Check if the method have a @RequestParam or @RequestBody in parameters
-If the method has @RequestParam, you must to add your values for this parameters in the key=value format, just like in the example
+If the method has @RequestParam, you must to add your values for this parameters in the key=value format, just like in the example.
 ![image](https://github.com/user-attachments/assets/385480dd-e905-4afe-bde9-7bc9258d0529)
-If the method has @RequestBody, you must to add your values in the body of the request in Postman
+If the method has @RequestBody, you must to add your values in the body of the request in Postman.    
 If everything was correct, you will see a notification about it, but if not, you will see another notification  
 ![image](https://github.com/user-attachments/assets/af73a49e-e4df-4bfa-a7ed-bc7028e87fc6)
 ![image](https://github.com/user-attachments/assets/7da3b25f-9840-4ee7-86f7-d76ed0cde229)
