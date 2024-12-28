@@ -29,7 +29,7 @@ If everything was correct, you will see a notification about it, but if not, you
 
 ### For what this project needs database?
 Long story short, questions for quizzes come straight from database, information about created quizzes go straight to the database, just like questions for created quizzes.  
-If you want, you may copy my questions, to do so, just insert this query in your database query tool
+If you want, you may copy my questions, to do so, just insert this query in your database query tool.
 ``` 
 CREATE TABLE Question (
     id SERIAL PRIMARY KEY,
