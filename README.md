@@ -5,7 +5,7 @@ This project is a backend for website with quizzes. How to work with this projec
 ## Attention!
 Since this repository contains a backend part of this project, you can not find here any files of frontend part, but you can create your own, I will only be glad for this :)  
 This repo includes all the project files, along with Maven files, so that readers have an understanding of what I worked with when creating this project.    
-All explanation of this code provided in the code comments for each function and each class. 
+All explanation of this code provided in the code comments for each method and each class. 
 
 ## How to work 
 To work with this project you must have a Postman, to get and post your data and one of various types of SQL-databases.
@@ -79,5 +79,5 @@ To connect your database to the project, you may copy my settings from [applicat
 As for me, there is no point in adding more code, but if you want - you have every right to do so, if you find bugs - let me know, I will be happy to fix everything.  
 
 My telegram: [@keepmewhoiam](https://t.me/keepmewhoiam),    
-Link for this repository: https://github.com/fallestlaww/Readability_Hyperskill.git,      
+Link for this repository: https://github.com/fallestlaww/WebQuizApplication.git,      
 My LinkedIn: [click](https://www.linkedin.com/in/pavlo-svitenko-a167152bb/).    
